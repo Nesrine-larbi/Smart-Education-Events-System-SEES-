@@ -2,8 +2,7 @@
 # Smart Education Events System (SEES)
 
 
-
-The **Smart Education Events System (SEES)** is a cutting-edge platform that streamlines the management of educational events. SEES supports in person, hybrid, and online formats, automating tasks like scheduling, registration, and engagement, while providing real-time insights to optimize event outcomes.
+A platform designed to streamline the organization, management, and engagement of educational events such as conferences, workshops, and seminars.SEES supports in person, hybrid, and online formats, automating tasks like scheduling, registration, and engagement, while providing real-time insights to optimize event outcomes.
 
 
 ## Objectives
